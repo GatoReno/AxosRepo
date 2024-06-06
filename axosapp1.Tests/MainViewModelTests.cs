@@ -32,7 +32,7 @@ namespace axosapp1.Tests
             };
 
             // Act
-            await viewModel.LoadCatsAsync();
+            await viewModel.LoadCountriesAsync();
 
             // Assert
             Assert.IsNotEmpty(viewModel.CatCollection);
