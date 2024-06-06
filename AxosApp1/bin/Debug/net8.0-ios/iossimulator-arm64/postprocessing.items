@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="AxosApp1.app/AxosApp1">
+      <BCSymbolMapName>AxosApp1.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>AxosApp1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/eduardorodriguez/Desktop/axos/AxosApp1/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>AxosApp1.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/eduardorodriguez/Desktop/axos/AxosApp1</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
